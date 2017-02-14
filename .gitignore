@@ -1,0 +1,4 @@
+.idea
+bindata/
+config/githash.go
+.vscode
